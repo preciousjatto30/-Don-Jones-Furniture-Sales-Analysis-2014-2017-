@@ -6,8 +6,8 @@ This project analyzes the Don-Jones Furniture sales performance from 2014 to 201
 This project presents a comprehensive sales performance analysis of the Don-Jones Furniture dataset from 2014 to 2017. The goal of the analysis is to extract actionable insights from sales data and provide strategic recommendations that can support better business decision-making.
 Using an interactive dashboard, the analysis explores sales trends, profitability, geographic distribution, product performance, shipping patterns, and customer segment profitability.
 The dashboard consolidates key metrics and visual insights to help stakeholders quickly understand what drives revenue, where opportunities exist, and which areas require improvement.
-🎯 Aim
 
+🎯 Aim
 To analyze furniture sales performance between 2014 and 2017 and uncover insights that can help improve revenue growth, profitability, and operational efficiency.
 
 📌 Objectives
